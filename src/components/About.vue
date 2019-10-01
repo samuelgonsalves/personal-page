@@ -36,7 +36,7 @@
                 <b-row>
                     <b-col>
                         <div>
-                            <b-card mt-10>
+                            <b-card>
                                 <h4>Frontend</h4>
                                 <b-row>
                                     <b-col>
@@ -126,22 +126,6 @@
             </b-row>
         </b-col>
     </b-row>
-    <!-- <b-row>
-        <b-col>
-            <h2>Personal Projects</h2>
-            <h6>
-                I love tinkering and building things with software! 
-            </h6>
-            <b-row>
-                <b-row>
-                    <h6>Game Engine</h6>
-                </b-row>
-                <b-row class="mt-5">
-                    <a href="https://github.com/sdg123/game-engine">Code</a>
-                </b-row>
-            </b-row>
-        </b-col>
-    </b-row> -->
 </b-container>
 </template>
 
