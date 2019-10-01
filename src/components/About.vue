@@ -9,23 +9,6 @@
             </div>
         </b-col>
     </b-row>
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
     <b-row>
         <b-col>
             <div id="skills">
@@ -53,7 +36,7 @@
                 <b-row>
                     <b-col>
                         <div>
-                            <b-card>
+                            <b-card mt-10>
                                 <h4>Frontend</h4>
                                 <b-row>
                                     <b-col>
@@ -73,7 +56,7 @@
                         </div>
                     </b-col>
                 </b-row>
-                <b-row >
+                <b-row>
                     <b-col>
                         <div>
                             <b-card>
@@ -115,8 +98,11 @@
             <b-row>
                 <b-col>
                     <img src="@/assets/inmar.png" />
-                    <h6>Graduate Software Engineer</h6>
-                    <h6>Software Engineering Intern</h6>
+                    <h6><strong>Graduate Software Engineer</strong></h6>
+                    <h6>June 2018 to Present</h6>
+                    <p></p>
+                    <h6><strong>Software Engineering Intern</strong></h6>
+                    <h6>May 2018 to May 2018</h6>
                 </b-col>
             </b-row>
         </b-col>
@@ -140,6 +126,22 @@
             </b-row>
         </b-col>
     </b-row>
+    <!-- <b-row>
+        <b-col>
+            <h2>Personal Projects</h2>
+            <h6>
+                I love tinkering and building things with software! 
+            </h6>
+            <b-row>
+                <b-row>
+                    <h6>Game Engine</h6>
+                </b-row>
+                <b-row class="mt-5">
+                    <a href="https://github.com/sdg123/game-engine">Code</a>
+                </b-row>
+            </b-row>
+        </b-col>
+    </b-row> -->
 </b-container>
 </template>
 
@@ -154,6 +156,9 @@ export default {
         font-size: 3em;
         font-weight: 700;
         color: navy;
+    }
+    i {
+        font-size: 0.75em;
     }
     ul {
         list-style-type: none;
