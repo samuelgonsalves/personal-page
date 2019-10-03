@@ -3,6 +3,7 @@
     <Header />
     <About />
     <PersonalProjects />
+    <ContactMe />
   </div>
 </template>
 
@@ -10,13 +11,14 @@
 import Header from './components/Header.vue'
 import About from './components/About.vue'
 import PersonalProjects from './components/PersonalProjects.vue'
-
+import ContactMe from './components/ContactMe.vue'
 export default {
   name: 'app',
   components: {
     Header,
     About,
-    PersonalProjects
+    PersonalProjects,
+    ContactMe
   }
 }
 </script>

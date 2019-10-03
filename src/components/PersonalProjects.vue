@@ -57,11 +57,10 @@
                 <h6>Researched and added content to Wikipedia's Jasmine testing framework article.</h6>
             </b-row>
             <b-row>
-                <h6>Added survey functionality to the open source project Expertiza to allow instructors to administer surveys for students.</h6>
+                <a href="https://tools.wmflabs.org/sigma/usersearch.py?name=Samuelg123&page=Jasmine_%28JavaScript_testing_framework%29&server=enwiki&max=">Wikipedia Contributions</a>
             </b-row>
             <b-row>
-                <!-- wrong link -->
-                <a href="https://github.com/sdg123/game-engine">Code</a>
+                <h6>Added survey functionality to the open source project Expertiza to allow instructors to administer surveys for students.</h6>
             </b-row>
         </b-col>
     </b-row>

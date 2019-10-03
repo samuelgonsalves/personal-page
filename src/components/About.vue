@@ -100,12 +100,23 @@
                     <img src="@/assets/inmar.png" />
                     <h6><strong>Graduate Software Engineer</strong></h6>
                     <h6>June 2018 to Present</h6>
-                    <p></p>
+                    <h6>Accomplishments:</h6>
+                    <ul>
+                        <li>Performed support sweeper duties, fixing application issues to ensure platform stability.</li>                        
+                        <li>Mentored an intern, providing career guidance, and presentation strategies.</li>                                            
+                    </ul>
+                    <img src="@/assets/inmar.png" />                    
                     <h6><strong>Software Engineering Intern</strong></h6>
                     <h6>May 2018 to May 2018</h6>
+                    <ul>
+                        <li>Developed an end-to-end IoT solution allowing scanning stations to notify managers about their status.</li>
+                        <li>Implemented a highly scalable Azure Function utility to migrate over 100M blob files across storage containers and storage accounts.</li>                    
+                    </ul>
                 </b-col>
             </b-row>
         </b-col>
+    </b-row>
+    <b-row>
         <b-col>
             <h2>
                 Where I graduated from
@@ -115,6 +126,7 @@
                     <img src="@/assets/nc-state.png" />
                     <h6><strong>North Carolina State University</strong></h6>
                     <h6>Masters in Computer Science</h6>
+                    <h6>2016 to 2018</h6>
                 </b-col>
             </b-row>
             <b-row>
@@ -122,6 +134,7 @@
                     <img src="@/assets/pune.png" />
                     <h6><strong>University of Pune</strong></h6>
                     <h6>Bachelors in Computer Engineering</h6>
+                    <h6>2012 to 2016</h6>
                 </b-col>
             </b-row>
         </b-col>
