@@ -4,6 +4,7 @@
     <About />
     <PersonalProjects />
     <ContactMe />
+    <Interests />
   </div>
 </template>
 
@@ -12,13 +13,15 @@ import Header from './components/Header.vue'
 import About from './components/About.vue'
 import PersonalProjects from './components/PersonalProjects.vue'
 import ContactMe from './components/ContactMe.vue'
+import Interests from './components/Interests.vue'
 export default {
   name: 'app',
   components: {
     Header,
     About,
     PersonalProjects,
-    ContactMe
+    ContactMe,
+    Interests
   }
 }
 </script>

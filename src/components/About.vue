@@ -108,6 +108,7 @@
                     <img src="@/assets/inmar.png" />                    
                     <h6><strong>Software Engineering Intern</strong></h6>
                     <h6>May 2018 to May 2018</h6>
+                    <h6>Accomplishments:</h6>
                     <ul>
                         <li>Developed an end-to-end IoT solution allowing scanning stations to notify managers about their status.</li>
                         <li>Implemented a highly scalable Azure Function utility to migrate over 100M blob files across storage containers and storage accounts.</li>                    
