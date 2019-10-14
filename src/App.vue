@@ -2,6 +2,7 @@
   <div id="app">
     <Header />
     <About />
+    <Experience />
     <PersonalProjects />
     <ContactMe />
     <Interests />
@@ -11,6 +12,7 @@
 <script>
 import Header from './components/Header.vue'
 import About from './components/About.vue'
+import Experience from './components/Experience.vue'
 import PersonalProjects from './components/PersonalProjects.vue'
 import ContactMe from './components/ContactMe.vue'
 import Interests from './components/Interests.vue'
@@ -19,6 +21,7 @@ export default {
   components: {
     Header,
     About,
+    Experience,
     PersonalProjects,
     ContactMe,
     Interests
