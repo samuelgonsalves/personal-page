@@ -28,8 +28,7 @@
                 <h6><u>Technologies</u>: Ruby on Rails, PostgreSQL, JavaScript</h6>
             </b-row>
             <b-row>
-                <!-- wrong link -->
-                <a href="https://github.com/sdg123/game-engine">Code</a>
+                <a href="https://github.com/sdg123/bank-app">Code</a>
             </b-row>
             <b-row>
                 <h6><strong>Continuous Integration Slack Bot</strong></h6>
@@ -41,8 +40,7 @@
                 <h6><u>Technologies</u>: Node.js, APIs: Travis CI, Coveralls, Slack, GitHub</h6>
             </b-row>
             <b-row>
-                <!-- wrong link -->
-                <a href="https://github.com/sdg123/game-engine">Code</a>
+                <a href="https://github.com/CiBotProject/bot">Code</a>
             </b-row>
             <b-row>
                 <h6><strong>Open Source Contributions</strong></h6>
