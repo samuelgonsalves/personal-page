@@ -6,9 +6,17 @@
             <h6>
                 I love tinkering and building things with software! 
             </h6>
-            <b-row>
+            <b-row class="mb-3">
                 <b-col>
-                    <b-card>
+                    <b-card class="h-100">
+                        <h6><strong>Date Recommender App</strong></h6>
+                        <h6>Currently building a web app to recommend date ideas by connecting to Yelp, Trello and other cool APIs.</h6>
+                        <h6><u>Technologies</u>: Vue.js</h6>
+                        <a href="https://github.com/sdg123/date-recommender">Code</a>
+                    </b-card>
+                </b-col>
+                <b-col>
+                    <b-card class="h-100">
                         <h6><strong>Game Engine</strong></h6>
                         <h6>Built a game engine in Java with a game object model, multithreaded architecture, event management, scripting.</h6>
                         <h6><u>Technologies</u>: Java, Processing Framework, JavaScript</h6>
@@ -16,19 +24,17 @@
                     </b-card>
                 </b-col>
             </b-row>
-            <b-row>                
+            <b-row class="mb-3">                
                 <b-col>
-                    <b-card>
+                    <b-card class="h-100">
                         <h6><strong>Bank app</strong></h6>
                         <h6>Developed an MVC application in Ruby on Rails emulating the functionality of an online banking system.</h6>
                         <h6><u>Technologies</u>: Ruby on Rails, PostgreSQL, JavaScript</h6>
                         <a href="https://github.com/sdg123/bank-app">Code</a>
                     </b-card>
                 </b-col>
-            </b-row>
-            <b-row>
                 <b-col>
-                    <b-card>
+                    <b-card class="h-100">
                         <h6><strong>Continuous Integration Slack Bot</strong></h6>
                         <h6>Built a Slack bot to interface between Travis CI, Coveralls and GitHub.</h6>
                         <h6><u>Technologies</u>: Node.js, APIs: Travis CI, Coveralls, Slack, GitHub</h6>
@@ -52,3 +58,6 @@
     </b-row>
 </b-container>
 </template>
+
+<style scoped>
+</style>
