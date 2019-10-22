@@ -1,38 +1,21 @@
 <template>
-<b-container>
-    <b-row>
+<div id="about">
+<b-container fluid > 
+    <b-row class="mt-3">
         <b-col>
-            <h1>Samuel David Gonsalves</h1>
+            <div><h1>Samuel Gonsalves</h1></div>
+        </b-col>
+    </b-row>
+    <b-row class="mt-5">
+        <b-col>
             <div>
-                Hi there! I'm Samuel, a full stack software developer.
-                After graduation, I joined Inmar as a software engineer where I'm working on developing web applications and scaling them by leveraging the cloud.
+                <h6>Hi there! I'm Samuel, a full stack software developer.</h6>
+                <h6>After graduation, I joined Inmar as a software engineer where I'm working on developing web applications and scaling them by leveraging the cloud.</h6>
             </div>
         </b-col>
     </b-row>
-    <b-row>
-        <b-col>
-            <h2>
-                Where I graduated from
-            </h2>
-            <b-row>
-                <b-col>
-                    <img src="@/assets/nc-state.png" />
-                    <h6><strong>North Carolina State University</strong></h6>
-                    <h6>Masters in Computer Science</h6>
-                    <h6>2016 to 2018</h6>
-                </b-col>
-            </b-row>
-            <b-row>
-                <b-col>
-                    <img src="@/assets/pune.png" />
-                    <h6><strong>University of Pune</strong></h6>
-                    <h6>Bachelors in Computer Engineering</h6>
-                    <h6>2012 to 2016</h6>
-                </b-col>
-            </b-row>
-        </b-col>
-    </b-row>
 </b-container>
+</div>
 </template>
 
 <script>
@@ -45,7 +28,13 @@ export default {
     h1 {
         font-size: 3em;
         font-weight: 700;
-        color: navy;
+        color: #6ad4b1;
+    }
+    h6 {
+        font-size: 1.2em;
+    }
+    div {
+        color: #6ad4b1;
     }
     i {
         font-size: 0.75em;
@@ -56,5 +45,11 @@ export default {
     }
     #skills b-col {
         background-color: black;
+    }
+    #about {
+        background-image: url("../assets/background-3.jpg");
+        background-size: cover;
+        height: 100vh;
+        overflow: hidden;   
     }
 </style>

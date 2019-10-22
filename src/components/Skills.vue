@@ -1,30 +1,30 @@
 <template>
+    <div id="skills">
     <b-container>
         <b-row>
             <b-col>
-                <div id="skills">
                     <h2>Most recently I've used</h2>
-                    <b-row>
+                    <b-row class="mb-3">
                         <b-col>
-                            <b-card>
                             <div>
+                            <b-card>
                                 <h4>Backend</h4>
                                 <img src="@/assets/cs.png"/>
                                 <h6>C#</h6>
-                            </div>
                             </b-card> 
+                            </div>
                         </b-col>
                         <b-col>
-                            <b-card>
-                                <div>
+                            <div>
+                                <b-card>
                                     <h4>Database</h4>
                                     <img src="@/assets/sql.png"/>
                                     <h6>SQL Server</h6>
-                                </div>
-                            </b-card>
+                                </b-card>
+                            </div>
                         </b-col>
                     </b-row>
-                    <b-row>
+                    <b-row class="mb-3">
                         <b-col>
                             <div>
                                 <b-card>
@@ -47,7 +47,7 @@
                             </div>
                         </b-col>
                     </b-row>
-                    <b-row>
+                    <b-row class="mb-3">
                         <b-col>
                             <div>
                                 <b-card>
@@ -78,10 +78,10 @@
                             </div>
                         </b-col>
                     </b-row>
-                </div>
             </b-col>
         </b-row>
     </b-container>
+    </div>
 </template>
 
 <style scoped>
@@ -89,5 +89,8 @@
     img {
         max-height: 60px;
         margin: 0 auto;
+    }
+    #skills {
+        height: 100vh;
     }
 </style>
