@@ -2,6 +2,7 @@
   <div id="app">
     <Header />
     <About />
+    <Schooling />
     <Skills />
     <Experience />
     <PersonalProjects />
@@ -13,16 +14,19 @@
 <script>
 import Header from './components/Header.vue'
 import About from './components/About.vue'
+import Schooling from './components/Schooling.vue'
 import Skills from './components/Skills.vue'
 import Experience from './components/Experience.vue'
 import PersonalProjects from './components/PersonalProjects.vue'
 import ContactMe from './components/ContactMe.vue'
 import Interests from './components/Interests.vue'
+
 export default {
   name: 'app',
   components: {
     Header,
     About,
+    Schooling,
     Skills,
     Experience,
     PersonalProjects,
@@ -38,6 +42,9 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: black;
+}
+body, html {
+  height: 100%;
 }
 </style>
