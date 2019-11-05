@@ -1,13 +1,16 @@
 <template>
-    <div id="skills">
+<div id="skills">
     <b-container>
         <b-row>
             <b-col>
-                    <h2>Most recently I've used</h2>
+                    <h3>Most recently I've used</h3>
+                    <h6>I love learning new technologies and I like to think of myself as being language-agnostic.</h6>
+                    <h6>Some of the technologies I've worked with recently include:</h6>
+
                     <b-row class="mb-3">
                         <b-col>
                             <div>
-                            <b-card>
+                            <b-card class="card-skill">
                                 <h4>Backend</h4>
                                 <img src="@/assets/cs.png"/>
                                 <h6>C#</h6>
@@ -16,7 +19,7 @@
                         </b-col>
                         <b-col>
                             <div>
-                                <b-card>
+                                <b-card class="card-skill">
                                     <h4>Database</h4>
                                     <img src="@/assets/sql.png"/>
                                     <h6>SQL Server</h6>
@@ -27,7 +30,7 @@
                     <b-row class="mb-3">
                         <b-col>
                             <div>
-                                <b-card>
+                                <b-card class="card-skill">
                                     <h4>Frontend</h4>
                                     <b-row>
                                         <b-col>
@@ -47,10 +50,10 @@
                             </div>
                         </b-col>
                     </b-row>
-                    <b-row class="mb-3">
+                    <b-row class="mb-1">
                         <b-col>
                             <div>
-                                <b-card>
+                                <b-card class="card-skill">
                                     <h4>Azure Cloud</h4>
                                     <b-row>
                                         <b-col>
@@ -81,7 +84,7 @@
             </b-col>
         </b-row>
     </b-container>
-    </div>
+</div>
 </template>
 
 <style scoped>
@@ -91,6 +94,11 @@
         margin: 0 auto;
     }
     #skills {
-        height: 100vh;
+        background-color: #233342;
+        color: #6ad4b1;
+    }
+    .card-skill {
+        background-color: #1e3e5c;
+
     }
 </style>

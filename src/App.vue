@@ -1,37 +1,37 @@
 <template>
   <div id="app">
     <Header />
-    <About />
-    <Schooling />
+    <Main />
+    <AboutMe />
     <Skills />
     <Experience />
+    <Schooling />
     <PersonalProjects />
     <ContactMe />
-    <Interests />
   </div>
 </template>
 
 <script>
 import Header from './components/Header.vue'
-import About from './components/About.vue'
+import Main from './components/Main.vue'
+import AboutMe from './components/AboutMe.vue'
 import Schooling from './components/Schooling.vue'
 import Skills from './components/Skills.vue'
 import Experience from './components/Experience.vue'
 import PersonalProjects from './components/PersonalProjects.vue'
 import ContactMe from './components/ContactMe.vue'
-import Interests from './components/Interests.vue'
 
 export default {
   name: 'app',
   components: {
     Header,
-    About,
+    Main,
+    AboutMe,
     Schooling,
     Skills,
     Experience,
     PersonalProjects,
-    ContactMe,
-    Interests
+    ContactMe
   }
 }
 </script>
@@ -48,3 +48,4 @@ body, html {
   height: 100%;
 }
 </style>
+

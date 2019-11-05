@@ -1,7 +1,7 @@
 <template>
-    <div id="schooling">
+<div id="schooling">
     <b-container>
-        <b-row class="mt-5">
+        <b-row>
             <b-col>
                 <h2>
                     Where I graduated from
@@ -25,7 +25,7 @@
             </b-col>
         </b-row>
     </b-container>
-    </div>
+</div>
 </template>
 
 <style scoped>
@@ -33,7 +33,8 @@
         max-height: 60px;
         margin: 0 auto;
     }
-    /* #schooling {
-        height: 100vh;
-    } */
+    #schooling {
+        background-color: #233342;
+        color: #6ad4b1;
+    }
 </style>

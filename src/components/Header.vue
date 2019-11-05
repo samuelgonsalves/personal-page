@@ -1,5 +1,5 @@
 <template>
-    <b-navbar variant="dark">
+    <b-navbar pills variant="dark">
         <b-navbar-brand href="#">Samuel</b-navbar-brand>
         <b-nav-item href="#">About Me</b-nav-item>
         <b-nav-item href="#skills">Skills</b-nav-item>
@@ -17,5 +17,14 @@ export default {
 <style scoped>
     li {
         list-style-type: none;
+    }
+    .nav-link {
+        color: #6ad4b1;            
+        text-decoration: none;
+        
+    }
+    .navbar {
+        color:#6ad4b1;
+        background-color:black;
     }
 </style>

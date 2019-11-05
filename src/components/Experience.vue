@@ -1,4 +1,5 @@
 <template>
+<div id="experience">
     <b-container>
         <b-row>
             <b-col>
@@ -28,6 +29,7 @@
             </b-col>
         </b-row>
     </b-container>
+</div>
 </template>
 
 <style scoped>
@@ -40,5 +42,9 @@ TODO: Remove duplication, learn how to style multiple components similarly
     }
     ul {
         list-style-type: none;
+    }
+    #experience {
+        background-color: #233342;
+        color: #6ad4b1;
     }
 </style>

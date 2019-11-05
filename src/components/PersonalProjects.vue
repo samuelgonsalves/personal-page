@@ -1,14 +1,14 @@
 <template>
+<div id="personalprojects">
 <b-container>
     <b-row>
         <b-col>
             <h2>Personal Projects</h2>
-            <h6>
-                I love tinkering and building things with software! 
-            </h6>
+            <h6>I enjoy tinkering and building things with software!</h6>
+            <h6>Here are some projects I've worked on...</h6>
             <b-row class="mb-3">
                 <b-col>
-                    <b-card class="h-100">
+                    <b-card class="h-100 card-project">
                         <h6><strong>Date Recommender App</strong></h6>
                         <h6>Currently building a web app to recommend date ideas by connecting to Yelp, Trello and other cool APIs.</h6>
                         <h6><u>Technologies</u>: Vue.js</h6>
@@ -16,7 +16,7 @@
                     </b-card>
                 </b-col>
                 <b-col>
-                    <b-card class="h-100">
+                    <b-card class="h-100 card-project">
                         <h6><strong>Game Engine</strong></h6>
                         <h6>Built a game engine in Java with a game object model, multithreaded architecture, event management, scripting.</h6>
                         <h6><u>Technologies</u>: Java, Processing Framework, JavaScript</h6>
@@ -26,7 +26,7 @@
             </b-row>
             <b-row class="mb-3">                
                 <b-col>
-                    <b-card class="h-100">
+                    <b-card class="h-100 card-project">
                         <h6><strong>Bank app</strong></h6>
                         <h6>Developed an MVC application in Ruby on Rails emulating the functionality of an online banking system.</h6>
                         <h6><u>Technologies</u>: Ruby on Rails, PostgreSQL, JavaScript</h6>
@@ -34,9 +34,9 @@
                     </b-card>
                 </b-col>
                 <b-col>
-                    <b-card class="h-100">
+                    <b-card class="h-100 card-project">
                         <h6><strong>Continuous Integration Slack Bot</strong></h6>
-                        <h6>Built a Slack bot to interface between Travis CI, Coveralls and GitHub.</h6>
+                        <h6>Built a Slack chatbot to assist with Continuous Integration (CI) tasks.</h6>
                         <h6><u>Technologies</u>: Node.js, APIs: Travis CI, Coveralls, Slack, GitHub</h6>
                         <b-button pill variant="outline-primary" href="https://github.com/CiBotProject/bot">Code</b-button>
                     </b-card>
@@ -44,7 +44,7 @@
             </b-row>
             <b-row>
                 <b-col>
-                    <b-card>
+                    <b-card class="card-project">
                         <h6><strong>Open Source Contributions</strong></h6>
                         <h6>Fixed UI bugs in TheOdinProject web application.</h6>
                         <h6>Contributed to the open source project FreeCodeCamp.</h6>
@@ -57,4 +57,19 @@
         </b-col>
     </b-row>
 </b-container>
+</div>
 </template>
+
+<style scoped>
+    #personalprojects {
+        /* height: 100vh; */
+                background-color: #233342;
+        color: #6ad4b1;
+    }
+    .card-project {
+        background-color: #1e3e5c;
+    }
+    /* .btn-outline-primary {
+        border-color: #6ad4b1;
+    } */
+</style>
