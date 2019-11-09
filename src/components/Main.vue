@@ -2,8 +2,11 @@
 <div id="main">
     <b-container fluid > 
         <b-row class="mt-3">
-            <b-col>
-                <div><h1>Samuel Gonsalves</h1></div>
+            <b-col class="float-left">
+                <div>
+                    <h1>Samuel</h1>
+                    <h1>Gonsalves</h1>
+                </div>
             </b-col>
         </b-row>
         <b-row class="mt-5">
@@ -26,7 +29,7 @@ export default {
 
 <style scoped>
     h1 {
-        font-size: 3em;
+        font-size: 4em;
         font-weight: 700;
         color: #6ad4b1;
     }
@@ -44,7 +47,7 @@ export default {
         margin: 0 auto;
     }
     #main {
-        background-image: url("../assets/background-3.jpg");
+        background-image: url("../assets/background.jpg");
         background-size: cover;
         height: 100vh;
         overflow: hidden;   

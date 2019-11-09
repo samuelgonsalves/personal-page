@@ -5,7 +5,6 @@
     <AboutMe />
     <Skills />
     <Experience />
-    <Schooling />
     <PersonalProjects />
     <ContactMe />
   </div>
@@ -15,7 +14,6 @@
 import Header from './components/Header.vue'
 import Main from './components/Main.vue'
 import AboutMe from './components/AboutMe.vue'
-import Schooling from './components/Schooling.vue'
 import Skills from './components/Skills.vue'
 import Experience from './components/Experience.vue'
 import PersonalProjects from './components/PersonalProjects.vue'
@@ -27,7 +25,6 @@ export default {
     Header,
     Main,
     AboutMe,
-    Schooling,
     Skills,
     Experience,
     PersonalProjects,
