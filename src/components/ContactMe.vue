@@ -2,13 +2,14 @@
 <div id="contact">
     <b-container>
         <b-row>
-            <b-col>
-                <h2>Get in touch with me!</h2>
+            <b-col class="mt-3">
+                <h2 class="main-header">Get in touch!</h2>
             </b-col>
         </b-row>
         <b-row>
             <b-col>
-                <h6>Feel free to reach out to me. I'd love to chat.</h6>
+                <h6>If you have an exciting project or opportunity, I'd love to learn more.</h6>
+                <h6>Feel free to reach out to me.</h6>
             </b-col>
         </b-row>
     </b-container>

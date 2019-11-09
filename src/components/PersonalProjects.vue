@@ -3,10 +3,9 @@
 <b-container>
     <b-row>
         <b-col>
-            <h2>Personal Projects</h2>
+            <h2 class="main-header">Personal Projects</h2>
             <h6>I enjoy tinkering and building things with software!</h6>
-            <h6>Here are some projects I've worked on...</h6>
-            <b-row class="mb-3">
+            <b-row class="mb-3 mt-5">
                 <b-col>
                     <b-card class="h-100 card-project">
                         <h6><strong>Date Recommender App</strong></h6>
@@ -18,7 +17,7 @@
                 <b-col>
                     <b-card class="h-100 card-project">
                         <h6><strong>Game Engine</strong></h6>
-                        <h6>Built a game engine in Java with a game object model, multithreaded architecture, event management, scripting.</h6>
+                        <h6>Built a game engine with a game object model, multithreaded architecture, event management, scripting.</h6>
                         <h6><u>Technologies</u>: Java, Processing Framework, JavaScript</h6>
                         <b-button pill variant="outline-primary" href="https://github.com/sdg123/game-engine">Code</b-button>
                     </b-card>
@@ -28,7 +27,7 @@
                 <b-col>
                     <b-card class="h-100 card-project">
                         <h6><strong>Bank app</strong></h6>
-                        <h6>Developed an MVC application in Ruby on Rails emulating the functionality of an online banking system.</h6>
+                        <h6>Developed an MVC application emulating the functionality of an online banking system.</h6>
                         <h6><u>Technologies</u>: Ruby on Rails, PostgreSQL, JavaScript</h6>
                         <b-button pill variant="outline-primary" href="https://github.com/sdg123/bank-app">Code</b-button>
                     </b-card>

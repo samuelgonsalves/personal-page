@@ -3,11 +3,10 @@
     <b-container>
         <b-row>
             <b-col>
-                    <h3>Most recently I've used</h3>
+                <div class="mt-5">
+                    <h3 class="main-header">Most recently I've used</h3>
                     <h6>I love learning new technologies and I like to think of myself as being language-agnostic.</h6>
-                    <h6>Some of the technologies I've worked with recently include:</h6>
-
-                    <b-row class="mb-3">
+                    <b-row class="mt-5 mb-3">
                         <b-col>
                             <div>
                             <b-card class="card-skill">
@@ -81,6 +80,7 @@
                             </div>
                         </b-col>
                     </b-row>
+                </div>
             </b-col>
         </b-row>
     </b-container>
@@ -101,4 +101,5 @@
         background-color: #1e3e5c;
 
     }
+
 </style>

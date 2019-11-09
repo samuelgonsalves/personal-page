@@ -4,7 +4,7 @@
     <Main />
     <AboutMe />
     <Skills />
-    <Experience />
+    <Timeline />
     <PersonalProjects />
     <ContactMe />
   </div>
@@ -15,7 +15,7 @@ import Header from './components/Header.vue'
 import Main from './components/Main.vue'
 import AboutMe from './components/AboutMe.vue'
 import Skills from './components/Skills.vue'
-import Experience from './components/Experience.vue'
+import Timeline from './components/Timeline.vue'
 import PersonalProjects from './components/PersonalProjects.vue'
 import ContactMe from './components/ContactMe.vue'
 
@@ -26,7 +26,7 @@ export default {
     Main,
     AboutMe,
     Skills,
-    Experience,
+    Timeline,
     PersonalProjects,
     ContactMe
   }
@@ -43,6 +43,9 @@ export default {
 }
 body, html {
   height: 100%;
+}
+.main-header {
+    font-size: 3em;
 }
 </style>
 
