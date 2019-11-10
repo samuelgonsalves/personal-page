@@ -2,7 +2,7 @@
 <div id="contact">
     <b-container>
         <b-row>
-            <b-col class="mt-3">
+            <b-col class="mt-5">
                 <h2 class="main-header">Hit me up!</h2>
             </b-col>
         </b-row>
@@ -49,7 +49,7 @@
 
 <style scoped>
     #contact {
-        height: 100vh;
+        height: 80vh;
         background-color: #233342;
         color: #6ad4b1;
     }   
