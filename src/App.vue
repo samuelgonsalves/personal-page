@@ -42,6 +42,9 @@ export default {
     Timeline,
     PersonalProjects,
     ContactMe
+  },
+  created () {
+    document.title = "Samuel Gonsalves";
   }
 }
 </script>
