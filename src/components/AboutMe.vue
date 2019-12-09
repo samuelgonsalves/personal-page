@@ -9,7 +9,7 @@
         <b-row class="mt-5">
             <b-col>
                 <div id="me">
-                    <img src="@/assets/me.png" />
+                    <img src="@/assets/me.jpg" />
                 </div>
             </b-col>                
             <b-col>
