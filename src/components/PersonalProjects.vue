@@ -17,7 +17,7 @@
                 <b-col>
                     <b-card class="h-100 card-project">
                         <h6><strong>Game Engine</strong></h6>
-                        <h6>Built a game engine with a game object model, multithreaded architecture, event management, scripting.</h6>
+                        <h6>Built a game engine with a game object model, multithreaded architecture, event management system, scripting engine.</h6>
                         <h6><u>Technologies</u>: Java, Processing Framework, JavaScript</h6>
                         <b-button pill variant="outline-primary" href="https://github.com/sdg123/game-engine">Code</b-button>
                     </b-card>

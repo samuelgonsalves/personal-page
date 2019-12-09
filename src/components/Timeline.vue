@@ -16,7 +16,7 @@
                         <b-col>
                             <b-card class="exp-class w-75 mb-5">
                             <h4><strong>Graduate Software Engineer</strong> at Inmar</h4>
-                            <h6>Primarily working in C# and .NET full stack development</h6> 
+                            <h6>Primarily working in C# and .NET full stack development.</h6> 
                             <h6>Responsible for coding, testing and deployment of applications and cloud-based services.</h6>            
                             </b-card>            
                         </b-col>
@@ -40,7 +40,7 @@
                         <b-col>
                             <b-card class="exp-class w-75 mb-5">
                                 <h4><strong>North Carolina State University</strong></h4>
-                                <h6>Graduated with a Masters in Computer Science</h6>
+                                <h6>Graduated with a Masters in Computer Science.</h6>
                             </b-card>
                         </b-col>
                     </b-row>
@@ -51,7 +51,7 @@
                         <b-col>
                             <b-card class="exp-class w-75 mb-5">
                                 <h4><strong>University of Pune</strong></h4>
-                                <h6>Graduated with a Bachelors in Computer Engineering</h6>
+                                <h6>Graduated with a Bachelors in Computer Engineering.</h6>
                             </b-card>
                         </b-col>
                     </b-row>
