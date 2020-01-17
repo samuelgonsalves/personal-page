@@ -15,7 +15,7 @@
                         </b-col>
                         <b-col>
                             <b-card class="exp-class w-75 mb-5">
-                            <h4><strong>Graduate Software Engineer</strong> at Inmar</h4>
+                            <h4><strong>Graduate Software Engineer</strong> at Inmar Intelligence</h4>
                             <h6>Primarily working in C# and .NET full stack development.</h6> 
                             <h6>Responsible for coding, testing and deployment of applications and cloud-based services.</h6>            
                             </b-card>            
@@ -27,7 +27,7 @@
                     </b-col>
                     <b-col>
                         <b-card class="exp-class w-75 mb-5">
-                            <h4><strong>Software Engineering Intern</strong> at Inmar</h4>
+                            <h4><strong>Software Engineering Intern</strong> at Inmar Intelligence</h4>
                             <h6>Built an IoT solution using Azure IoT Event Hub.</h6>
                             <h6>Developed a scalable Function utility to migrate blob files across storage containers and storage accounts.</h6>                    
                         </b-card>
