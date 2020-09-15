@@ -11,7 +11,7 @@
                         <h6><strong>Date Recommender App</strong></h6>
                         <h6>Currently building a web app to recommend date ideas by connecting to Yelp, Trello and other cool APIs.</h6>
                         <h6><u>Technologies</u>: Vue.js</h6>
-                        <b-button pill variant="outline-primary" href="https://github.com/sdg123/date-recommender">Code</b-button>
+                        <b-button pill variant="outline-primary" href="https://github.com/samuelgonsalves/date-recommender">Code</b-button>
                     </b-card>
                 </b-col>
                 <b-col>
@@ -19,7 +19,7 @@
                         <h6><strong>Game Engine</strong></h6>
                         <h6>Built a game engine with a game object model, multithreaded architecture, event management system, scripting engine.</h6>
                         <h6><u>Technologies</u>: Java, Processing Framework, JavaScript</h6>
-                        <b-button pill variant="outline-primary" href="https://github.com/sdg123/game-engine">Code</b-button>
+                        <b-button pill variant="outline-primary" href="https://github.com/samuelgonsalves/game-engine">Code</b-button>
                     </b-card>
                 </b-col>
             </b-row>
@@ -29,7 +29,7 @@
                         <h6><strong>Bank app</strong></h6>
                         <h6>Developed an MVC application emulating the functionality of an online banking system.</h6>
                         <h6><u>Technologies</u>: Ruby on Rails, PostgreSQL, JavaScript</h6>
-                        <b-button pill variant="outline-primary" href="https://github.com/sdg123/bank-app">Code</b-button>
+                        <b-button pill variant="outline-primary" href="https://github.com/samuelgonsalves/bank-app">Code</b-button>
                     </b-card>
                 </b-col>
                 <b-col>
