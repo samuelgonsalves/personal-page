@@ -23,7 +23,7 @@
             </b-col>
             <b-col>
                 <div>
-                    <a href="https://www.github.com/sdg123" class="contact-link" title="GitHub">
+                    <a href="https://www.github.com/samuelgonsalves" class="contact-link" title="GitHub">
                         <font-awesome-icon :icon="['fab', 'github']"  size="6x" />
                     </a>
                 </div>
