@@ -1,4 +1,4 @@
-# sdg123.github.io
+# Samuel Gonsalves - personal web page
 
 ## Project setup
 ```
