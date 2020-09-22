@@ -11,6 +11,17 @@
                 <div id="exp" class="mt-5">
                     <b-row>
                         <b-col cols="4">
+                            <h3 class="center-date">2020</h3>                            
+                        </b-col>
+                        <b-col>
+                            <b-card class="exp-class w-85 mb-5">
+                            <h4><strong>Software Engineer</strong> at Inmar Intelligence</h4>
+                            <h6>Building and ensuring stability for a message based microservice system for a drug sorter.</h6>            
+                            </b-card>            
+                        </b-col>
+                    </b-row>
+                    <b-row>
+                        <b-col cols="4">
                             <h3 class="center-date">2018</h3>                            
                         </b-col>
                         <b-col>
@@ -22,16 +33,16 @@
                         </b-col>
                     </b-row>
                     <b-row>
-                    <b-col cols="4">                    
-                        <h3 class="center-date">2017</h3>                        
-                    </b-col>
-                    <b-col>
-                        <b-card class="exp-class w-85 mb-5">
-                            <h4><strong>Software Engineering Intern</strong> at Inmar Intelligence</h4>
-                            <h6>Built an IoT solution using Azure IoT Event Hub.</h6>
-                            <h6>Developed a scalable Function utility to migrate blob files across storage containers and storage accounts.</h6>                    
-                        </b-card>
-                    </b-col>
+                        <b-col cols="4">                    
+                            <h3 class="center-date">2017</h3>                        
+                        </b-col>
+                        <b-col>
+                            <b-card class="exp-class w-85 mb-5">
+                                <h4><strong>Software Engineering Intern</strong> at Inmar Intelligence</h4>
+                                <h6>Built an IoT solution using Azure IoT Event Hub.</h6>
+                                <h6>Developed a scalable Function utility to migrate blob files across storage containers and storage accounts.</h6>                    
+                            </b-card>
+                        </b-col>
                     </b-row>
                     <b-row>
                         <b-col cols="4">
