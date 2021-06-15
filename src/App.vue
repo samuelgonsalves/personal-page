@@ -44,7 +44,7 @@ export default {
     ContactMe
   },
   created () {
-    document.title = "Samuel Gonsalves";
+    document.title = "Samuel David Gonsalves";
   }
 }
 </script>

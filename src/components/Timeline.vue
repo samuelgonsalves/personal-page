@@ -7,7 +7,6 @@
                     My Timeline
                 </h2>
                 <h6>A glimpse into my background and experience.</h6>
-                
                 <div id="exp" class="mt-5">
                     <b-row>
                         <b-col cols="4">
@@ -15,8 +14,9 @@
                         </b-col>
                         <b-col>
                             <b-card class="exp-class w-85 mb-5">
-                            <h4><strong>Software Engineer</strong> at Inmar Intelligence</h4>
-                            <h6>Building and ensuring stability for a message based microservice system for a drug sorter.</h6>            
+                            <h3><strong>Software Engineer</strong> at Inmar Intelligence</h3>
+                            <h6>Created .NET API endpoints and microservices to improve efficiency of the Receiving platform.</h6>
+                            <h6>Implemented .NET services for weight-based shipping classification using NRules rule engine.</h6>            
                             </b-card>            
                         </b-col>
                     </b-row>
@@ -27,7 +27,7 @@
                         <b-col>
                             <b-card class="exp-class w-85 mb-5">
                             <h4><strong>Graduate Software Engineer</strong> at Inmar Intelligence</h4>
-                            <h6>Primarily working in C# and .NET full stack development.</h6> 
+                            <h6>Created scalable, distributed file processing services leveraging .NET Core and RabbitMQ message queueing.</h6>            
                             <h6>Responsible for coding, testing and deployment of applications and cloud-based services.</h6>            
                             </b-card>            
                         </b-col>
@@ -39,8 +39,8 @@
                         <b-col>
                             <b-card class="exp-class w-85 mb-5">
                                 <h4><strong>Software Engineering Intern</strong> at Inmar Intelligence</h4>
-                                <h6>Built an IoT solution using Azure IoT Event Hub.</h6>
-                                <h6>Developed a scalable Function utility to migrate blob files across storage containers and storage accounts.</h6>                    
+                                <h6>Built a UWP app to  handle & aggregate notification events from scanning stations using Azure Functions, Azure IoT hub.</h6>
+                                <h6>Developed a scalable Azure Function utility to migrate 2M blob files across storage containers and storage accounts.</h6>                    
                             </b-card>
                         </b-col>
                     </b-row>
