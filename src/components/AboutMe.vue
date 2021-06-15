@@ -14,11 +14,11 @@
             </b-col>                
             <b-col>
                 <div id="aboutmedesc">
-                    <h6>Hello! I'm Samuel.</h6>
-                    <h6>I work for Inmar as a software engineer where I design, develop & support client-facing web applications and services.</h6>
+                    <h6>I work for Inmar Intelligence as a software engineer where I design, develop & support client-facing web applications and services.</h6>
                     <h6>My primary responsibilities include -</h6>                
                     <ul class="list-decoration">
                         <li>Writing and testing code</li>
+                        <li>Designing solutions to solve business problems</li>
                         <li>Coordinating deployments</li>
                         <li>Supporting applications and services</li>
                     </ul>

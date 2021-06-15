@@ -3,7 +3,7 @@
     <b-container>
         <b-row>
             <b-col class="mt-5">
-                <h2 class="main-header">Hit me up!</h2>
+                <h2 class="main-header">Get in touch with me!</h2>
             </b-col>
         </b-row>
         <b-row>

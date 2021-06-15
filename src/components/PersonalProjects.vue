@@ -9,7 +9,7 @@
                 <b-col>
                     <b-card class="h-100 card-project">
                         <h6><strong>Date Recommender App</strong></h6>
-                        <h6>Currently building a web app to recommend date ideas by connecting to Yelp, Trello and other cool APIs.</h6>
+                        <h6>A web app to recommend date ideas by connecting to Yelp, Trello and other cool APIs.</h6>
                         <h6><u>Technologies</u>: Vue.js</h6>
                         <b-button pill variant="outline-primary" href="https://github.com/samuelgonsalves/date-recommender">Code</b-button>
                     </b-card>
@@ -26,10 +26,10 @@
             <b-row class="mb-3">                
                 <b-col>
                     <b-card class="h-100 card-project">
-                        <h6><strong>Bank app</strong></h6>
-                        <h6>Developed an MVC application emulating the functionality of an online banking system.</h6>
-                        <h6><u>Technologies</u>: Ruby on Rails, PostgreSQL, JavaScript</h6>
-                        <b-button pill variant="outline-primary" href="https://github.com/samuelgonsalves/bank-app">Code</b-button>
+                        <h6><strong>Alexa Skill for Trello Grocery Board</strong></h6>
+                        <h6>Alexa Skill with features to manage a Trello Grocery Board.</h6>
+                        <h6><u>Technologies</u>: C#, AWS Lambda, Alexa Reminders API</h6>
+                        <b-button pill variant="outline-primary" href="https://github.com/samuelgonsalves/AlexaShoppingListFunc">Code</b-button>
                     </b-card>
                 </b-col>
                 <b-col>
@@ -38,6 +38,24 @@
                         <h6>Built a Slack chatbot to assist with Continuous Integration (CI) tasks.</h6>
                         <h6><u>Technologies</u>: Node.js, APIs: Travis CI, Coveralls, Slack, GitHub</h6>
                         <b-button pill variant="outline-primary" href="https://github.com/CiBotProject/bot">Code</b-button>
+                    </b-card>
+                </b-col>
+            </b-row>
+            <b-row class="mb-3">                
+                <b-col>
+                    <b-card class="h-100 card-project">
+                        <h6><strong>Bank app</strong></h6>
+                        <h6>Developed an MVC application emulating the functionality of an online banking system.</h6>
+                        <h6><u>Technologies</u>: Ruby on Rails, PostgreSQL, JavaScript</h6>
+                        <b-button pill variant="outline-primary" href="https://github.com/samuelgonsalves/bank-app">Code</b-button>
+                    </b-card>
+                </b-col>
+                <b-col>
+                    <b-card class="h-100 card-project">
+                        <h6><strong>Connect 4 Game</strong></h6>
+                        <h6>Developed a multiplayer Connect 4 game using TCP socket communication.</h6>
+                        <h6><u>Technologies</u>: Java</h6>
+                        <b-button pill variant="outline-primary" href="https://github.com/samuelgonsalves/connect4">Code</b-button>
                     </b-card>
                 </b-col>
             </b-row>

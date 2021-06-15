@@ -4,7 +4,7 @@
         <b-row class="mt-3">
             <b-col class="float-left">
                 <div>
-                    <h1>Samuel Gonsalves</h1>
+                    <h1>Samuel David Gonsalves</h1>
                 </div>
             </b-col>
         </b-row>
@@ -12,7 +12,7 @@
             <b-col>
                 <div>
                     <h6>Hi there! I'm Samuel, a passionate full stack software developer.</h6>
-                    <h6>After graduation, I joined Inmar as a software engineer where I primarily develop web applications and cloud services.</h6>
+                    <h6>I work at Inmar Intelligence as a software engineer where I primarily develop web applications and cloud services.</h6>
                 </div>
             </b-col>
         </b-row>
